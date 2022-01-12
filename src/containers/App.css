@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Space of Time Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Space of Time Regular'), url('space of time.woff') format('woff');
+}
+h1{
+    font-family: "Space of Time Regular";
+    font-weight: 1000;
+    color: salmon;
+    font-size: 50px;
+}
